@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<title>HTML Tutorial</title>
+<body>
+
+<<<<<<< HEAD
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+=======
+<h1>This is a ganatech</h1>
+<p>This is a omnitech</p>
+>>>>>>> 3rd
+
+</body>
+</html>
